@@ -24,3 +24,4 @@ classifier_one/
 ├── loan_model.pkl             # Trained & serialized scikit-learn model
 ├── requirements.txt           # Project dependencies for deployment
 └── README.md                  # Project documentation
+
